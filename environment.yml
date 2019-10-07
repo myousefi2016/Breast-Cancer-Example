@@ -1,0 +1,9 @@
+name: Breast-Cancer-Example
+channels:
+  - conda-forge
+  - anaconda
+dependencies:
+  - numpy
+  - pandas
+  - tabpy-client
+  - scikit-learn
