@@ -1,0 +1,3 @@
+# Breast-Cancer-Example
+This is an example of using machine learning techniques (Supervised learning vs. Unsupervised learning) such as support vector machine (SVM) and K-Means to analyze breast cancer data from: https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+(Diagnostic) and how to connect this developed machine learning model to Tableau for visualization. This material is primarily developed for Advanced Tableau workshop Clemson University and re-using it for other purposes needs proper credit and citation to this repository.
+Contact Information: Mehrdad Yousefi <yousefi@clemson.edu>
